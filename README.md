@@ -58,7 +58,7 @@ The cost factor controls how computationally expensive hashing is, improving sec
 ---
 ## Demo Video
 
-[Click to watch the Hash Discord demo](https://1drv.ms/v/c/ac093eb261348098/IQDs0ZEG3liKTpL7gC7bX4LFARhS7iBCbHqR7MNm97UnQLs?e=nie2Fc)
+[Click to watch the Hash Discord demo](https://1drv.ms/v/c/ac093eb261348098/IQDs0ZEG3liKTpL7gC7bX4LFAZcTovmNnwfVaHRIFnKAcm0)
 
 ## Tech Stack
 
