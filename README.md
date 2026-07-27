@@ -44,18 +44,21 @@ The cost factor controls how computationally expensive hashing is, improving sec
 ## Demo Flow
 
 ### 1. User fills out the registration form  
-![Registration Form](screenshots/form.png)
+<img src="screenshots/form.png" width="70%">
 
 ### 2. Account creation confirmation  
-![Welcome Page](screenshots/welcome.png)
+<img src="screenshots/welcome.png" width="70%">
 
 
 
 ### 3. phpMyAdmin shows the stored hashed password  
 
-![Database Screenshot](screenshots/database.png)
+<img src="screenshots/database.png" width="70%">
 
 ---
+## Demo Video
+
+[Click to watch the Hash Discord demo](https://1drv.ms/v/c/ac093eb261348098/IQDs0ZEG3liKTpL7gC7bX4LFARhS7iBCbHqR7MNm97UnQLs?e=nie2Fc)
 
 ## Tech Stack
 
@@ -85,9 +88,6 @@ The cost factor controls how computationally expensive hashing is, improving sec
 
 ---
 
-## Demo Video
-
-[Click to watch the Hash Discord demo](https://1drv.ms/v/c/ac093eb261348098/IQDs0ZEG3liKTpL7gC7bX4LFARhS7iBCbHqR7MNm97UnQLs?e=nie2Fc)
 
 ## References
 
