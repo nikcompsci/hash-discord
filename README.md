@@ -1,4 +1,4 @@
-# Hash Discord: Password Hashing Demo (PHP + MySQL + phpMyAdmin)
+# Hash Digest: Password Hashing Demo (PHP + MySQL + phpMyAdmin)
 
 This project demonstrates how secure password hashing works behind the scenes when a user creates an account. It walks through the full flow:
 
@@ -58,7 +58,7 @@ The cost factor controls how computationally expensive hashing is, improving sec
 ---
 ## Demo Video
 
-[Click to watch the Hash Discord demo](https://1drv.ms/v/c/ac093eb261348098/IQDs0ZEG3liKTpL7gC7bX4LFAZcTovmNnwfVaHRIFnKAcm0)
+[Click to watch the Hash Digest demo](https://1drv.ms/v/c/ac093eb261348098/IQDs0ZEG3liKTpL7gC7bX4LFAZcTovmNnwfVaHRIFnKAcm0)
 
 ## Tech Stack
 
