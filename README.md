@@ -37,7 +37,8 @@ Here’s how to read it:
 - **Remaining characters** → hashed password  
 
 The salt ensures that even identical passwords produce different hashes.  
-The cost factor controls how computationally expensive hashing is, improving security.
+The cost factor controls how computationally expensive hashing is.
+Increasing the cost factor improves security but slows down performance.
 
 ---
 
